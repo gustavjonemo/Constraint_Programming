@@ -1,0 +1,2 @@
+@echo off
+"C:\Program Files\Java\jdk1.8.0_152\bin\java.exe" -XX:+UseSerialGC -server -cp "C:\Users\gusta\OneDrive\Documents\Kursmaterial\Constraint\jacop-4.7.0.jar" -Xmx8G -Xss100M org.jacop.fz.Fz2jacop %*

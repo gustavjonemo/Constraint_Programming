@@ -1,0 +1,35 @@
+DFS:
+Total number of visited nodes = 32059
+Total number of failed nodes = 16029
+
+From left, <=: (task 1)
+Total number of visited nodes = 41847
+Total number of failed nodes = 20923
+
+From left, >=: (task 2)
+Total number of visited nodes = 701141
+Total number of failed nodes = 350570
+
+From right, <=:
+Total number of visited nodes = 73063
+Total number of failed nodes = 36531
+
+From right, >=:
+Total number of visited nodes = 178937
+Total number of failed nodes = 89468
+
+From middle, <=:
+Total number of visited nodes = 59747
+Total number of failed nodes = 29873
+
+from middle, >=:
+Total number of visited nodes = 181249
+Total number of failed nodes = 90624
+
+From smallest domain, <=:
+Total number of visited nodes = 56961
+Total number of failed nodes = 28480
+
+From smallest domain, >=:
+Total number of visited nodes = 1529431
+Total number of failed nodes = 764715 
